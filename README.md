@@ -1,4 +1,4 @@
-# PHP CRUD MVC
+# 🐱🐶🦄 PHP CRUD MVC 🐱🐶🦄
 
 ## About the project
 This project is part of a formation course by FactoriaF5 where de main goal is to adquire the ability to create a fully functional database which can be accessed by the MVC (Model View Controller) method using PHP and give the user the ability to do the CRUD (Create, Read, Update and Delete).
