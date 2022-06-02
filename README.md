@@ -67,7 +67,7 @@ We also plan to add som testing to the code as well as a navbar that will allow 
 - VScode
 
 ## Authors
-- [Jessica Mejia](https://github.com/itsberriver "Jessica Mejia GitHub profile")
+- [Jessica Berriver](https://github.com/itsberriver "Jessica Mejia GitHub profile")
 - [Ales](https://github.com/aleswebgit "Ales GitHub profile") 
 - [Albert Martínez](https://github.com/QuercusJS "Albert Martínez GitHub profile")
 - [Miguel Ángel Domingez](https://github.com/MADROCHA "Miguel Ángel Domingez GitHub profile")
